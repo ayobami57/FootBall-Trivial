@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FootBall Trivial</string>
+    <string name="Football_Trivial">FootBall Trivial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="question1">Which player scored the fastest hat-trick in the Premier League?</string>
+    <string name="option1">Mohamed Salah</string>
+    <string name="option2">Sadio Mane</string>
+    <string name="option3">Kun Aguero</string>
+    <string name="option4">Christiano Ronaldo</string>
+    <string name="submit">Submit</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="Try_again">Try Again</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="nextMatch">Next Match</string>
+    <string name="play">Play</string>
+    <string name="Trivial_question">Trivial Question</string>
+    <string name="game_over">Game Over</string>
+</resources>
